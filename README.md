@@ -1,2 +1,0 @@
-# TicTacToe
-simple android game
